@@ -22,8 +22,8 @@ I want to gain the skills to have a successful career in web development
 https://www.linkedin.com/in/zach-maraziti-web-developer-94a275147/
 
 ## Meetups I've attended:
-1. 
-2. 
+1. Denver Script 	
+2. Aspen Entrepreneurs
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
 I think an agency enviroment would be ideal for me. I love the idea of creating something for people and love the design asspect aswell.
@@ -32,7 +32,7 @@ I think an agency enviroment would be ideal for me. I love the idea of creating 
 Front-end is definitely where is see myself
 
 ## Link to my resume: 
-resume.pdf
+[Here!](resume.pdf)
 
 ## Link to my portfolio website: 
-zachcodes.com
+[Here!](http://zachcodes.com)
