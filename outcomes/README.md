@@ -32,7 +32,7 @@ I think an agency enviroment would be ideal for me. I love the idea of creating 
 Front-end is definitely where is see myself
 
 ## Link to my resume: 
-[Here!](Resume.pdf)
+[Here!](ZM_Resume.pdf)
 
 ## Link to my portfolio website: 
 [Here!](http://zachcodes.com)
